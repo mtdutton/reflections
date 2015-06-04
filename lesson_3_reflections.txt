@@ -1,6 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-  One key benefit to using a remote repository would be so that you could share the
-  repository with other developers.  Space limitations on a local harddrive could
-  come into play as well.
+  One key benefit to using a remote repository would be so that you could share the repository with other developers.  Space limitations on a local harddrive could come into play as well.
   
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  There are times when you may be working on something that having the latest code at that time could interfere with your work.  Perhaps better to finish what you are doing, then pull the latest to begin reconciling the differences.
+
