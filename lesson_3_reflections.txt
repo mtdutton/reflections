@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     There are other version control systems out there, but I am not aware if they have such collaborative features like GitHub.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    You should really leave master branch untouched, except to pull what is in origin when desired.  The separate branches should be for the local changes you wish to make, then you can push that to a new branch in the remote for pull requests.
+
